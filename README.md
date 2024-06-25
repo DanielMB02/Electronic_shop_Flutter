@@ -1,16 +1,8 @@
-# tienda_componentes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Electronic Store 
+The application consists of an electronic components store app with features such as adding components to the shopping cart, calculating the final price, user login, and registration. 
+##Usage 
+Upon entering the app, press the ‘Get Started’ button to access the main page. Inside, you can view products and their prices. In the upper right corner, there’s a button for logging in, while the lower right corner leads to the list of products added to the shopping cart. 
+##Login and New User Creation 
+For login, enter an email address and password. If you don’t have an existing account, choose the option to create a new user. In the new user creation section, input an email address, password, and confirm the password. Once the user is created, they’ll be welcomed to the main page using the email they used to log in. 
+##Technologies 
+The project was developed using ‘Flutter,’ and user authentication was implemented using ‘Firebase.’
