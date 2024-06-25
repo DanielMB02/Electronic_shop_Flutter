@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245945594560",
+    "project_id": "electronic-shop-8e10d",
+    "storage_bucket": "electronic-shop-8e10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245945594560:android:9b72080c135f2db37d3325",
+        "android_client_info": {
+          "package_name": "com.example.tienda_componentes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInU7nk0IlLYBjrRF-JM8pYGBcFAj5iy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
